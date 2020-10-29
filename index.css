@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pangolin&display=swap');
+header {
+	width: 947px;
+	height: 80px;
+	margin: 0 auto;
+	font-size: 48px;
+	line-height: 84px;
+	border: 3px solid black;
+	font-family: 'Pacifico', cursive;
+}
+aside {}
+main {
+	border: 2px solid black;
+	margin: 0 auto;
+	width: 1440px;
+	height: 1024px;
+	background: #FF9A03;
+	
+}
+.block{
+	margin-top:-200px;
+}
+div {}
+section {}
+article {}
+p {
+	font-family: 'Pangolin', cursive;
+}
+nav {
+	position: absolute;
+	width: 221px;
+	height: 500px;
+	margin-left: 1217px;
+	margin-top: 104px;
+
+	font-family: Pacifico;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 63px;
+	
+	background: rgba(250, 247, 247, 0.72);
+
+
+}
+ul {}
+footer {
+	position: absolute;
+	width: 1196px;
+	height: 84px;
+	margin-left: 122px;
+	border: 3px solid black;
+	left: 300px;
+
+
+	
+}
+.select1 {
+	position: absolute;
+	width: 460px;
+	height: 186px;
+	margin-left: 250px;
+	margin-top: 104px;
+
+	
+	font-size: 16px;
+	line-height: 20px;
+	
+	background: rgba(250, 247, 247, 0.9);
+	
+
+}
+.select2 {
+	position: absolute;
+	width: 460px;
+	height: 186px;
+	margin-left: 250px;
+	margin-top: 314px;
+
+	
+	font-size: 16px;
+	line-height: 20px;
+	
+	background: rgba(250, 247, 247, 0.9);
+
+	
+}
+.select3 {
+	position: absolute;
+	width: 460px;
+	height: 186px;
+	margin-left: 250px;
+	margin-top: 525px;
+
+	
+	font-size: 16px;
+	line-height: 20px;
+	
+	background: rgba(250, 247, 247, 0.9);
+
+}
+.select4 {
+
+	position: absolute;
+	width: 460px;
+	height: 186px;
+	margin-left: 250px;
+	margin-top: 730px;
+	background: rgba(250, 247, 247, 0.9);
+
+	
+	font-size: 16px;
+	line-height: 20px;
+	
+
+}
+
+.about {
+	position: absolute;
+	width: 467px;
+	height: 816px;
+	margin-left: 730px;
+	margin-top: 104px;
+
+	font-size: 18px;
+	line-height: 22px;
+	
+	background: rgba(250, 247, 247, 0.9)
+}
+.us {
+	
+}
+.news {
+	position: absolute;
+	width: 223px;
+	height: 719px;
+	margin-left: 0px;
+	margin-top: 197px;
+
+	font-size: 24px;
+	line-height: 30px;
+	
+	background: rgba(250, 247, 247, 0.72);
+}
+
+}
+
+
+.logo {
+	position: absolute;
+	width: 223px;
+	height: 197px;
+	left: 0px;
+	top: 200px;
+
+
+
+}
+.city {
+	position: absolute;
+	width: 438px;
+	height: 207px;
+	left: 1085px;
+	top: 800px;
+
+
+
+}
+h3 {
+	font-family: 'Pacifico', cursive;
+}
+h2 {
+	font-family: 'Pacifico', cursive;
+}
