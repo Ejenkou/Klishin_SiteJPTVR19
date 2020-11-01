@@ -28,7 +28,7 @@ section {}
 article {}
 
 nav {
-	position: absolute;
+position: absolute;
 	width: 221px;
 	height: 500px;
 	margin-left: 1217px;
@@ -214,21 +214,14 @@ h2 {
 	
 
 }
-.anna {
+.member {
 	position: absolute;
 	width: 185px;
 	height: 152px;
 	left: 750px;
 	top: 15px;
 }
-.katya {
-	
-}
 
-.andres {
-	
-}
-.li {
 	
 }
 input {
@@ -282,7 +275,7 @@ input {
 
 
 }
-a {
+div {
 	font-family: 'Pacifico', cursive;
 	font-size: 30px;
 	line-height: 60px;
@@ -305,3 +298,24 @@ h2 {
 	margin-left: 30px;
 }
 
+.a {
+	font-family: 'Pacifico', cursive;
+	margin-left: 10px;
+	font-size: 30px;
+	line-height: 15px;
+}
+.search {
+	position: absolute;
+	background: rgba(250, 247, 247, 0.95);
+	width: 214px;
+	height: 84px;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	margin: 0 auto;
+
+	
+	
+	
+	left: 1450px;
+
+}

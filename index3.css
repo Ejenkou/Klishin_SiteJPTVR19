@@ -23,8 +23,17 @@ main {
 div {}
 section {}
 article {}
+.text {
+	width: 150px;
+	height: 500px;
+	margin: 0 auto;
+
+}
+
 p {
 	font-family: 'Pangolin', cursive;
+	width: 300px;
+	height: 500px;
 }
 nav {
 	position: absolute;
@@ -104,8 +113,8 @@ footer {
 	position: absolute;
 	width: 460px;
 	height: 186px;
-	margin-left: 250px;
-	margin-top: 730px;
+	margin-left: 730px;
+	margin-top: 104px;
 	background: rgba(250, 247, 247, 0.9);
 
 	
@@ -120,8 +129,8 @@ footer {
 	position: absolute;
 	width: 460px;
 	height: 186px;
-	margin-left: 250px;
-	margin-top: 730px;
+	margin-left: 730px;
+	margin-top: 314px;
 	background: rgba(250, 247, 247, 0.9);
 
 	
@@ -133,8 +142,8 @@ footer {
 	position: absolute;
 	width: 460px;
 	height: 186px;
-	margin-left: 250px;
-	margin-top: 730px;
+	margin-left: 730px;
+	margin-top: 525px;
 	background: rgba(250, 247, 247, 0.9);
 
 	
@@ -181,4 +190,30 @@ h3 {
 }
 h2 {
 	font-family: 'Pacifico', cursive;
+	margin-left: 30px;
+}
+
+.profile {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 350px;
+	top: 10px;
+
+
+}
+.search {
+	position: absolute;
+	background: rgba(250, 247, 247, 0.95);
+	width: 214px;
+	height: 84px;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	margin: 0 auto;
+
+	
+	
+	
+	left: 1450px;
+
 }

@@ -21,7 +21,11 @@ main {
 	margin-top:-200px;
 }
 div {}
-section {}
+section {
+	
+
+background: #FAF7F7;
+}
 article {}
 p {
 	font-family: 'Pangolin', cursive;
@@ -51,82 +55,11 @@ footer {
 	margin-left: 122px;
 	border: 3px solid black;
 	left: 300px;
-
-
-	
-}
-.select1 {
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 104px;
-
-	
-	font-size: 16px;
-	line-height: 20px;
-	
-	background: rgba(250, 247, 247, 0.9);
-	
-
-}
-.select2 {
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 314px;
-
-	
-	font-size: 16px;
-	line-height: 20px;
-	
-	background: rgba(250, 247, 247, 0.9);
-
-	
-}
-.select3 {
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 525px;
-
-	
-	font-size: 16px;
-	line-height: 20px;
-	
-	background: rgba(250, 247, 247, 0.9);
-
-}
-.select4 {
-
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 730px;
-	background: rgba(250, 247, 247, 0.9);
-
-	
-	font-size: 16px;
-	line-height: 20px;
 	
 
 }
 
-.about {
-	position: absolute;
-	width: 467px;
-	height: 816px;
-	margin-left: 730px;
-	margin-top: 104px;
 
-	font-size: 18px;
-	line-height: 22px;
-	
-	background: rgba(250, 247, 247, 0.9)
-}
 .us {
 	
 }
@@ -155,13 +88,7 @@ footer {
 
 
 
-}
-.city {
-	position: absolute;
-	width: 438px;
-	height: 207px;
-	left: 1085px;
-	top: 800px;
+
 
 
 
@@ -172,3 +99,104 @@ h3 {
 h2 {
 	font-family: 'Pacifico', cursive;
 }
+
+.s1{
+		position: absolute;
+	width: 947px;
+	height: 80px;
+	left: 450px;
+	top: 125px;
+
+	font-family: Pacifico;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	line-height: 84px;
+
+	background: #FAF7F7;
+	font-family: 'Pacifico', cursive;
+	font-size: 15px;
+	
+
+}
+
+.s2 {
+	position: absolute;
+	width: 947px;
+	height: 80px;
+	left: 450px;
+	top: 1000px;
+
+	background: #FAF7F7;
+
+}
+.w1 {
+	position: absolute;
+	width: 345px;
+	height: 181px;
+	left: 450px;
+	top: 209px;
+}
+
+.w2 {
+	position: absolute;
+	width: 345px;
+	height: 181px;
+	left: 450px;
+	top: 417px;
+}
+
+.w3 {
+	position: absolute;
+	width: 345px;
+	height: 181px;
+	left: 450px;
+	top: 629px;
+}
+
+.w4 {
+	position: absolute;
+	width: 222px;
+	height: 606px;
+	left: 825px;
+	top: 209px;
+}
+
+.w5 {
+	position: absolute;
+	width: 345px;
+	height: 181px;
+	left: 1075px;
+	top: 209px;
+}
+.w6 {
+	position: absolute;
+	width: 345px;
+	height: 181px;
+	left: 1075px;
+	top: 417px;
+}
+.w7 {
+	position: absolute;
+	width: 345px;
+	height: 181px;
+	left: 1075px;
+	top: 629px;
+}
+	
+.search {
+	position: absolute;
+	background: rgba(250, 247, 247, 0.95);
+	width: 214px;
+	height: 84px;
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+	margin: 0 auto;
+
+	
+	
+	
+	left: 1450px;
+
+}
+
