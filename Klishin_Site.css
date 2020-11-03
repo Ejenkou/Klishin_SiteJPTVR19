@@ -1,27 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Pangolin&display=swap');
 header {
-	width: 947px;
-	height: 80px;
-	margin: 0 auto;
-	font-size: 48px;
-	line-height: 84px;
-	left: 200px;
-	top: 200px;
+	width: 75.8%; /*1440px*/
+	height: 2em; /*80px*/
+	margin: 0 auto; /**/
+	font-size: 3em; /*48px*/
+	line-height: 2.25em; /*84px*/
+	top: 0.0625em ; /*1px*/
+	text-align: center;
 	
 	font-family: 'Pacifico', cursive;
 	background: #FAF7F7;
 }
+
 aside {}
 main {
 	
 	margin: 0 auto;
-	width: 1440px;
-	height: 1024px;
+	width: 76%; /*1440px*/
+	height: 64em; /*1024px*/
 	background: #FF9A03;
 	
 }
-.block{
-	margin-top:-200px;
+
 }
 div {}
 ction {}
@@ -29,273 +29,114 @@ article {}
 p {
 	font-family: 'Pangolin', cursive;
 }
-nav {
-	position: absolute;
-	width: 221px;
-	height: 500px;
-	margin-left: 1217px;
-	margin-top: 104px;
 
-	font-family: Pacifico;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 36px;
-	line-height: 63px;
-	
-	background: rgba(250, 247, 247, 0.72);
-
-
-}
 ul {}
 footer {
-	position: absolute;
-	width: 1440px;
-	height: 84px;
-	margin-left: 122px;
+	
+	width: 75.8%; /*1440px*/
+	height: 5.25em; /*84px*/
+	margin-left: 14.3em; /*202px*/
 	background: #F7F5F2;
-	left: 108px;
+	left: 6.77em; /*108px*/
 
 
 	
 }
-.select1 {
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 104px;
+h1 {}
+h2 {}
+
+section {
+	
+	width: 31.9444444444% ; /*460px*/
+	height: 11.625em; /*186px*/
+	margin-left: 15.625em; /*250px*/
+	margin-top:  -50.9375em; /*815px*/
 
 	
-	font-size: 16px;
-	line-height: 20px;
+	font-size: 1em; /*16px*/
+	line-height: 1.25em; /*20px*/ 
 	
 	background: rgba(250, 247, 247, 0.9);
 	
 
 }
-.select2 {
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 314px;
 
-	
-	font-size: 16px;
-	line-height: 20px;
-	
-	background: rgba(250, 247, 247, 0.9);
 
+
+
+img {
 	
+	width: 0.14840182648% /*65px*/
+	height: 1.0625em; /*65px*/
+	margin-left: 20.525em ; /*385px*/
+	margin-top: -3em; /*-30px*/
 }
-.select3 {
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 525px;
+form {
+		width: 20.8333333333%; /*300px*/
+	height: 18.75em; /*300px*/
+	margin-top: -58.68em; /*-960px*/
+	
 
-	
-	font-size: 16px;
-	line-height: 20px;
-	
-	background: rgba(250, 247, 247, 0.9);
 
 }
-.select4 {
-
-	position: absolute;
-	width: 460px;
-	height: 186px;
-	margin-left: 250px;
-	margin-top: 730px;
-	background: rgba(250, 247, 247, 0.9);
-
+input {
 	
-	font-size: 16px;
-	line-height: 20px;
-	
-
-}
-
-.about {
-	position: absolute;
-	width: 467px;
-	height: 816px;
-	margin-left: 730px;
-	margin-top: 104px;
-
-	font-size: 18px;
-	line-height: 22px;
-	
-	background: rgba(250, 247, 247, 0.9)
-}
-.us {
-	position: absolute;
-	width: 150px;
-	height: 72px;
-	left: 190px;
-	top: 1px;
-
-	font-size: 36px;
-	line-height: 63px;
+	background: rgba(250, 247, 247, 0.95);
+	width: 69.8611111111%; /*214px*/
+	height: 2.9em; /*75px*/
 	font-family: 'Pacifico', cursive;
-	
-}
-.news {
-	position: absolute;
-	width: 223px;
-	height: 719px;
-	margin-left: 0px;
-	margin-top: 197px;
-
-	font-size: 24px;
-	line-height: 30px;
-	
-	background: rgba(250, 247, 247, 0.72);
-}
-
-}
-
-
-.logo {
-	position: absolute;
-	width: 223px;
-	height: 197px;
-	left: 0px;
-	top: 200px;
-
-
-
-}
-.city {
-	position: absolute;
-	width: 438px;
-	height: 207px;
-	left: 980px;
-	top: 800px;
-}
-.text {
-	position: absolute;
-	width: 438px;
-	height: 657px;
-	left: 15px;
-	top: 90px;
-
-	font-size: 18px;
-	line-height: 22px;
+	font-size: 1.875em; /*30px*/
+	margin-left: 39.2em; /*1218px*/
+	margin-top: 0.3em ; /*6px*/
+	border: solid black;
 
 
 	
 	
-}
-
-
-}
-h3 {
-	font-family: 'Pacifico', cursive;
-
-}
-h2 {
-	font-family: 'Pacifico', cursive;
-}
-
-
-.how {
 	
-	width: 100px;
-	height: 100px;
-	left: 350px;
-	top: 100px;
+	 /**/
+
+}
+nav {
+	
+	width: 16.2472222222%; /*221px*/
+	height: 20.25em; /*500px*/
+	margin-left: 32.6em; /*1220px*/
+	margin-top: -6.37em; /*-232px*/
 
 	font-family: Pacifico;
 	
-	font-size: 24px;
-	line-height: 63px;
-	font-family: 'Pacifico', cursive;
+	font-size: 2.25em; /*36px*/
+	line-height: 1.9375em; /*63px*/
 	
+	background: rgba(250, 247, 247, 0.72);
 
-}
-.legs {
-	position: absolute;
-	width: 65px;
-	height: 65px;
-	left: 385px;
-	top: 10px;
-}
-
-.plane {
-	position: absolute;
-	width: 65px;
-	height: 65px;
-	left: 385px;
-	top: 10px;
-}
-
-.boat {
-	position: absolute;
-	width: 65px;
-	height: 65px;
-	left: 385px;
-	top: 10px;
-}
-.bus {
-	position: absolute;
-	width: 65px;
-	height: 65px;
-	left: 385px;
-	top: 10px;
-}
-input {
-	position: absolute;
-	background: rgba(250, 247, 247, 0.95);
-	width: 214px;
-	height: 84px;
-	font-family: 'Pacifico', cursive;
-	font-size: 30px;
-	margin: 0 auto;
-
-	
-	
-	
-	left: 1450px;
 
 }
 .FAQ{
-	margin-left: 200px;
-	margin-top: 100px;
+	margin-left: 12.5em; /*200px*/
+	margin-top: 6.25em ; /*100px*/
 	font-family: 'Pacifico', cursive;
-	font-size: 20px;
+	font-size: 1.25em; /*20px*/
 
 
 }
-.kontakt{
-	margin-left: 425px;
+.kontakt{ 
+	margin-left: 16.5625em; /*425px*/
 	font-family: 'Pacifico', cursive;
-	font-size: 20px;
+	font-size: 1.25em; /*20px*/
 
 	
 }
 .adress{
-	margin-left: 450px;
+	margin-left: 16.125em; /*450px*/
 	font-family: 'Pacifico', cursive;
-	font-size: 20px;
+	font-size: 1.25em; /*20px*/
 
-	line-height: 75px;
+	
 
 
 }
 
-.head {
-	font-family: 'Pacifico', cursive;
-	font-size: 30px;
-	margin-left: 50px;
-	line-height: 60px;
-
-
-
-
-
-}
 
 
