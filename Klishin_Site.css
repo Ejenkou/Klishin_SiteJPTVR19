@@ -10,27 +10,34 @@ header {
 	
 	font-family: 'Pacifico', cursive;
 	background: #FAF7F7;
+
 }
 
-aside {}
+aside {
+	float: left;
+	border:  solid black;
+	width: 223px;
+	height: 727px;
+	margin-top: 197px;
+	background: rgba(250, 247, 247, 0.72);
+}
 main {
 	
 	margin: 0 auto;
 	width: 76%; /*1440px*/
 	height: 64em; /*1024px*/
 	background: #FF9A03;
+	border: solid black;
 	
 }
 
-}
-div {}
-ction {}
-article {}
+
+
 p {
 	font-family: 'Pangolin', cursive;
 }
 
-ul {}
+
 footer {
 	
 	width: 75.8%; /*1440px*/
@@ -42,83 +49,75 @@ footer {
 
 	
 }
-h1 {}
-h2 {}
 
-section {
-	
-	width: 31.9444444444% ; /*460px*/
-	height: 11.625em; /*186px*/
-	margin-left: 15.625em; /*250px*/
-	margin-top:  -50.9375em; /*815px*/
+article {}
 
-	
-	font-size: 1em; /*16px*/
-	line-height: 1.25em; /*20px*/ 
-	
-	background: rgba(250, 247, 247, 0.9);
-	
-
-}
-
-
-
-
-img {
-	
-	width: 0.14840182648% /*65px*/
-	height: 1.0625em; /*65px*/
-	margin-left: 20.525em ; /*385px*/
-	margin-top: -3em; /*-30px*/
-}
-form {
-		width: 20.8333333333%; /*300px*/
-	height: 18.75em; /*300px*/
-	margin-top: -58.68em; /*-960px*/
-	
-
-
-}
 input {
-	
+
 	background: rgba(250, 247, 247, 0.95);
-	width: 69.8611111111%; /*214px*/
-	height: 2.9em; /*75px*/
+	width: 214px;
+	height: 84px;
 	font-family: 'Pacifico', cursive;
-	font-size: 1.875em; /*30px*/
-	margin-left: 39.2em; /*1218px*/
-	margin-top: 0.3em ; /*6px*/
+	font-size: 30px;
+	
+	margin-bottom: 0px;
+	float: right;
+
+	
+}
+.article1 {
+	width: 460px;
+	height: 186px;
 	border: solid black;
+	font-size: 14px;
+	text-align: left;
+	margin-left: 250px;
+	margin-top: 100px;
+	background: rgba(250, 247, 247, 0.9);
 
 
-	
-	
-	
-	 /**/
-
-}
-nav {
-	
-	width: 16.2472222222%; /*221px*/
-	height: 20.25em; /*500px*/
-	margin-left: 32.6em; /*1220px*/
-	margin-top: -6.37em; /*-232px*/
-
-	font-family: Pacifico;
-	
-	font-size: 2.25em; /*36px*/
-	line-height: 1.9375em; /*63px*/
-	
-	background: rgba(250, 247, 247, 0.72);
 
 
 }
+.article2 {
+		width: 460px;
+	height: 186px;
+	border: solid black;
+	font-size: 16px;
+	text-align: left;
+	margin-left: 250px;
+	margin-top: 20px;
+	background: rgba(250, 247, 247, 0.9);
+}
+.article3 {
+		width: 460px;
+	height: 186px;
+	border: solid black;
+	font-size: 16px;
+	text-align: left;
+	margin-left: 250px;
+	margin-top: 20px;
+	background: rgba(250, 247, 247, 0.9);
+}
+.article4 {
+		width: 460px;
+	height: 186px;
+	border: solid black;
+	font-size: 16px;
+	text-align: left;
+	margin-left: 250px;
+	margin-top: 20px;
+	background: rgba(250, 247, 247, 0.9);
+}
+
+
 .FAQ{
+
 	margin-left: 12.5em; /*200px*/
 	margin-top: 6.25em ; /*100px*/
 	font-family: 'Pacifico', cursive;
 	font-size: 1.25em; /*20px*/
-
+	
 
 }
 .kontakt{ 
@@ -137,6 +136,34 @@ nav {
 
 
 }
+.text {
+	float:right;
+	width: 467px;
+	height: 822px;
+	margin-top: 100px;
+	margin-right:230px;
+	
+	border: solid black;
+	background: rgba(250, 247, 247, 0.9);
+
+}
+
+nav {
+	width: 221px;
+	height: 500px;
+	margin-left: 1217px;
+	margin-top: 1px;
+
+	font-size: 36px;
+	line-height: 63px;
+	font-family: 'Pacifico', cursive;
+
+	background: rgba(250, 247, 247, 0.72);
+}
+
+
+
+
 
 
 
